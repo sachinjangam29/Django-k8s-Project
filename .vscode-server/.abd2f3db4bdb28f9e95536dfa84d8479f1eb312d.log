@@ -1,0 +1,31 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:33737 (IPv4)
+Extension host agent listening on 33737
+
+[18:40:49] 
+
+
+
+
+[18:40:49] Extension host agent started.
+[18:40:50] [127.0.0.1][eb0d816c][ManagementConnection] New connection established.
+[18:40:50] [127.0.0.1][1d558b74][ExtensionHostConnection] New connection established.
+[18:40:51] [127.0.0.1][1d558b74][ExtensionHostConnection] <3493> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[18:45:49] New EH opened, aborting shutdown
+[19:21:23] [127.0.0.1][1d558b74][ExtensionHostConnection] <3493> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:21:23] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:21:31] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:21:31] Cancelling previous shutdown timeout
+[19:21:32] [127.0.0.1][16e8399b][ManagementConnection] New connection established.
+[19:21:33] [127.0.0.1][2846b5a3][ExtensionHostConnection] New connection established.
+[19:21:33] [127.0.0.1][2846b5a3][ExtensionHostConnection] <13973> Launched Extension Host Process.

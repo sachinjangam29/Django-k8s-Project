@@ -1,0 +1,17 @@
+2023-09-26 18:40:49.169 [info] 
+
+
+
+
+2023-09-26 18:40:49.191 [info] Extension host agent started.
+2023-09-26 18:40:50.226 [info] [127.0.0.1][eb0d816c][ManagementConnection] New connection established.
+2023-09-26 18:40:50.766 [info] [127.0.0.1][1d558b74][ExtensionHostConnection] New connection established.
+2023-09-26 18:40:51.001 [info] [127.0.0.1][1d558b74][ExtensionHostConnection] <3493> Launched Extension Host Process.
+2023-09-26 18:45:49.197 [info] New EH opened, aborting shutdown
+2023-09-26 19:21:23.878 [info] [127.0.0.1][1d558b74][ExtensionHostConnection] <3493> Extension Host Process exited with code: 0, signal: null.
+2023-09-26 19:21:23.880 [info] Last EH closed, waiting before shutting down
+2023-09-26 19:21:31.767 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-26 19:21:31.768 [info] Cancelling previous shutdown timeout
+2023-09-26 19:21:32.970 [info] [127.0.0.1][16e8399b][ManagementConnection] New connection established.
+2023-09-26 19:21:33.593 [info] [127.0.0.1][2846b5a3][ExtensionHostConnection] New connection established.
+2023-09-26 19:21:33.612 [info] [127.0.0.1][2846b5a3][ExtensionHostConnection] <13973> Launched Extension Host Process.
