@@ -116,3 +116,62 @@ cd .git/
 cat config 
 ll
 cat index 
+git remote -v
+git remote set-url origin origin git@github.com:sachinjangam29/Django-k8s-Project.git
+git remote set-url  origin git@github.com:sachinjangam29/Django-k8s-Project.git
+git remote -v
+git add -all
+git add --all
+git commit -m "Commit for 1st time"
+git push orgin main
+git push origin main
+ll
+cd .ssh/
+ll
+ssh-keygen -t rsa 
+ll
+cat id_rsa.pub
+cat id_rsa.pub 
+cat id_rsa
+pwd
+clear
+git push orgin main
+git push
+pwd
+git remote -v
+ll
+git clone git@github.com:sachinjangam29/Django-k8s.git
+claer
+clear
+git clone git@github.com:sachinjangam29/Django-k8s.git
+git remote -v
+git remote set-url origin git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url origin main git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url push git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url --4push git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url --push git@github.com:sachinjangam29/Django-k8s.gi
+git nbranch
+git branch
+git remote set-url --push main git@github.com:sachinjangam29/Django-k8s.gi
+git remote set-url --push main qclear git@github.com:sachinjangam29/Django-k8s.gi
+clear
+git remote set -url origin main git@github.com:sachinjangam29/Django-k8s-Project.git
+git remote set -url origin git@github.com:sachinjangam29/Django-k8s-Project.git
+git remote set-url origin git@github.com:sachinjangam29/Django-k8s-Project.git
+git status
+git remote -v
+git get-url
+git remote
+git remote -va
+git remote get-url
+git remote get-url --all
+clear
+ll
+git init
+git remote -v
+git remote set-url origin git@github.com:sachinjangam29/Django-k8s-Project.git
+sudo su
+git remote -v
+source venv/bin/activate
+pip install "django>=3.2,<4.0"

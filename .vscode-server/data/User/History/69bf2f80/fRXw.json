@@ -1,0 +1,9 @@
+{
+    "redhat.telemetry.enabled": false,
+    "remote.SSH.remotePlatform": {
+        "44.204.87.58": "linux",
+        "3.86.215.217": "linux",
+        "18.212.40.41": "linux",
+        "3.83.155.77": "linux"
+    }
+}

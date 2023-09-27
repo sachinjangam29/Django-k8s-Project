@@ -1,0 +1,37 @@
+2023-09-27 16:53:08.430 [info] 
+
+
+
+
+2023-09-27 16:53:08.468 [info] Extension host agent started.
+2023-09-27 16:53:09.392 [info] [127.0.0.1][42b5f8e0][ManagementConnection] New connection established.
+2023-09-27 16:53:09.943 [info] [127.0.0.1][cdad20f5][ExtensionHostConnection] New connection established.
+2023-09-27 16:53:10.224 [info] [127.0.0.1][cdad20f5][ExtensionHostConnection] <1121> Launched Extension Host Process.
+2023-09-27 16:58:08.470 [info] New EH opened, aborting shutdown
+2023-09-27 18:25:09.425 [info] [127.0.0.1][65b43e03][ManagementConnection] New connection established.
+2023-09-27 18:25:10.022 [info] [127.0.0.1][83d7bcc6][ExtensionHostConnection] New connection established.
+2023-09-27 18:25:10.083 [info] [127.0.0.1][83d7bcc6][ExtensionHostConnection] <1722> Launched Extension Host Process.
+2023-09-27 18:25:18.948 [info] [127.0.0.1][65b43e03][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-27 18:25:18.956 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-27 18:25:23.975 [info] [127.0.0.1][83d7bcc6][ExtensionHostConnection] <1722> Extension Host Process exited with code: 0, signal: null.
+2023-09-27 18:25:28.420 [info] [127.0.0.1][137f7831][ManagementConnection] New connection established.
+2023-09-27 18:25:28.971 [info] [127.0.0.1][84889a8e][ExtensionHostConnection] New connection established.
+2023-09-27 18:25:28.987 [info] [127.0.0.1][84889a8e][ExtensionHostConnection] <1856> Launched Extension Host Process.
+2023-09-27 18:25:42.870 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/ubuntu)
+2023-09-27 18:30:14.720 [info] [127.0.0.1][cdad20f5][ExtensionHostConnection] <1121> Extension Host Process exited with code: 0, signal: null.
+2023-09-27 20:00:35.929 [info] [127.0.0.1][3707e296][ManagementConnection] New connection established.
+2023-09-27 20:00:36.486 [info] [127.0.0.1][ed21a92a][ExtensionHostConnection] New connection established.
+2023-09-27 20:00:36.499 [info] [127.0.0.1][ed21a92a][ExtensionHostConnection] <3705> Launched Extension Host Process.
+2023-09-27 20:00:49.200 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-27 20:00:52.641 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-09-27 20:00:58.612 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-27 20:01:13.933 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-27 20:01:14.602 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-09-27 20:01:15.254 [info] Installing extension: ms-azuretools.vscode-docker
+2023-09-27 20:01:16.132 [info] Extensions is already requested to install ms-azuretools.vscode-docker

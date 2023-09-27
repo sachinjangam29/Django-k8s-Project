@@ -19,3 +19,6 @@
 2023-09-27 10:42:55.392 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
 2023-09-27 10:42:55.704 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
 2023-09-27 10:43:00.917 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2023-09-27 11:45:02.307 [error] [RPC Response] PtyService#updateIcon Could not find pty on pty host
+2023-09-27 11:45:02.338 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
+2023-09-27 11:45:02.388 [error] [RPC Response] PtyService#updateTitle Could not find pty on pty host
