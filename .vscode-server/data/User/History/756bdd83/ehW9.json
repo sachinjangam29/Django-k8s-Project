@@ -1,0 +1,17 @@
+{
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "yaml.schemas": {
+        "kubernetes" : "*.yaml"
+
+    },
+    "remote.SSH.remotePlatform": {
+        "3.82.189.78": "linux",
+        "3.95.223.109": "linux",
+        "54.209.83.212": "linux",
+        "52.91.227.173": "linux",
+        "3.84.61.71": "linux",
+        "13.127.68.139": "linux",
+        "3.111.215.48": "linux",
+        "54.89.146.67": "linux"
+    }
+}

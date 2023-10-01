@@ -1,0 +1,26 @@
+2023-09-29 17:42:36.332 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-29 17:42:36.332 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-29 17:42:36.332 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-09-29 17:42:36.332 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-09-29 17:42:36.332 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-29 17:42:36.401 [info] Running installed packages checker:  python /home/ubuntu/.vscode-server/extensions/ms-python.python-2023.16.0/pythonFiles/installed_check.py /home/ubuntu/Dev/Django-k8s/web/requirements.txt
+2023-09-29 17:42:36.406 [error] Error while getting installed packages check result:
+ [Error: spawn python ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn python',
+  path: 'python',
+  spawnargs: [
+    '/home/ubuntu/.vscode-server/extensions/ms-python.python-2023.16.0/pythonFiles/installed_check.py',
+    '/home/ubuntu/Dev/Django-k8s/web/requirements.txt'
+  ]
+}
+2023-09-29 17:42:36.413 [info] Test server listening.
+2023-09-29 17:42:36.445 [info] Python interpreter path: /bin/python3
+2023-09-29 17:42:37.535 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 17:42:37.535 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 17:42:37.535 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-29 17:42:40.903 [info] Starting Pylance language server.

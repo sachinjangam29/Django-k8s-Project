@@ -1,0 +1,13 @@
+2023-09-29 17:28:35.111 [info] Extension host with pid 1397 started
+2023-09-29 17:28:35.138 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/faccb931834aeb13b6e7b5daf6aa86b6/vscode.lock': Lock acquired.
+2023-09-29 17:28:35.762 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-29 17:28:37.296 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-29 17:28:37.954 [info] Eager extensions activated
+2023-09-29 17:28:37.955 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-29 17:28:37.956 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-29 17:28:58.826 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-29 17:29:05.296 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2023-09-29 17:29:05.297 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-29 17:29:56.685 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-09-29 17:31:55.226 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-09-29 17:31:56.344 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

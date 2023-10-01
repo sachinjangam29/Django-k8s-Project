@@ -1,0 +1,116 @@
+2023-09-29 17:39:03.530 [info] 
+
+
+
+
+2023-09-29 17:39:03.558 [info] Extension host agent started.
+2023-09-29 17:39:04.537 [info] [127.0.0.1][797cde72][ManagementConnection] New connection established.
+2023-09-29 17:39:05.072 [info] [127.0.0.1][95b06574][ExtensionHostConnection] New connection established.
+2023-09-29 17:39:05.359 [info] [127.0.0.1][95b06574][ExtensionHostConnection] <1247> Launched Extension Host Process.
+2023-09-29 17:39:24.591 [info] [127.0.0.1][797cde72][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-29 17:39:24.593 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-29 17:39:29.628 [info] [127.0.0.1][95b06574][ExtensionHostConnection] <1247> Extension Host Process exited with code: 0, signal: null.
+2023-09-29 17:39:29.628 [info] Cancelling previous shutdown timeout
+2023-09-29 17:39:29.629 [info] Last EH closed, waiting before shutting down
+2023-09-29 17:39:40.267 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-29 17:39:40.267 [info] Cancelling previous shutdown timeout
+2023-09-29 17:39:41.623 [info] [127.0.0.1][96886e4d][ManagementConnection] New connection established.
+2023-09-29 17:39:42.180 [info] [127.0.0.1][7111cbf1][ExtensionHostConnection] New connection established.
+2023-09-29 17:39:42.192 [info] [127.0.0.1][7111cbf1][ExtensionHostConnection] <1399> Launched Extension Host Process.
+2023-09-29 17:40:20.694 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:40:20.926 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:41:21.975 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:41:22.239 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:44:26.665 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:44:40.268 [info] New EH opened, aborting shutdown
+2023-09-29 17:45:46.472 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:45:46.756 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:55:14.128 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:55:14.376 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:57:29.531 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:57:29.791 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:07.105 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:07.376 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:18.689 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:18.913 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:24.644 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:24.905 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:26.703 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:26.972 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:58:41.199 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:10:48.294 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:10:48.506 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:12:57.996 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:12:58.222 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:32.026 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:32.304 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:42.619 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:42.892 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:44.456 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 18:14:44.619 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)

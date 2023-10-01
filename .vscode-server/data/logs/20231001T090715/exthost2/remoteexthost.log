@@ -1,0 +1,19 @@
+2023-10-01 09:08:01.298 [info] Extension host with pid 1383 started
+2023-10-01 09:08:01.340 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/7cc53d1c0e4b37423552e2c17ca50285/vscode.lock': Lock acquired.
+2023-10-01 09:08:01.714 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-01 09:08:02.043 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-01 09:08:02.163 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2023-10-01 09:08:02.541 [info] Eager extensions activated
+2023-10-01 09:08:02.541 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-01 09:08:02.542 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-01 09:08:20.366 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockercompose'
+2023-10-01 09:08:20.366 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-01 09:08:43.211 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-10-01 09:09:03.448 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-10-01 09:29:20.971 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-10-01 09:29:22.767 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-10-01 09:29:49.208 [error] [ms-python.python] provider FAILED
+2023-10-01 09:29:49.208 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist/extension.bundle.js:1:71903
+	at _0x37c43d (/home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist/extension.bundle.js:1:83687)
+	at async pe.provideCompletionItems (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/workbench/api/node/extensionHostProcess.js:110:51158)

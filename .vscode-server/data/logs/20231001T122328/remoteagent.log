@@ -1,0 +1,38 @@
+2023-10-01 12:23:28.571 [info] 
+
+
+
+
+2023-10-01 12:23:28.601 [info] Extension host agent started.
+2023-10-01 12:23:29.527 [info] [127.0.0.1][3d72ddf2][ManagementConnection] New connection established.
+2023-10-01 12:23:30.036 [info] [127.0.0.1][6764b81d][ExtensionHostConnection] New connection established.
+2023-10-01 12:23:30.318 [info] [127.0.0.1][6764b81d][ExtensionHostConnection] <1239> Launched Extension Host Process.
+2023-10-01 12:23:50.599 [info] [127.0.0.1][3d72ddf2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 12:23:50.602 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 12:23:55.624 [info] [127.0.0.1][6764b81d][ExtensionHostConnection] <1239> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 12:23:55.624 [info] Cancelling previous shutdown timeout
+2023-10-01 12:23:55.624 [info] Last EH closed, waiting before shutting down
+2023-10-01 12:24:05.789 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-01 12:24:05.789 [info] Cancelling previous shutdown timeout
+2023-10-01 12:24:07.076 [info] [127.0.0.1][b9fb50fc][ManagementConnection] New connection established.
+2023-10-01 12:24:07.664 [info] [127.0.0.1][7d755520][ExtensionHostConnection] New connection established.
+2023-10-01 12:24:07.691 [info] [127.0.0.1][7d755520][ExtensionHostConnection] <1391> Launched Extension Host Process.
+2023-10-01 12:25:53.423 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-10-01 12:25:53.666 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-10-01 12:29:05.790 [info] New EH opened, aborting shutdown
+2023-10-01 12:30:24.076 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-10-01 12:30:24.328 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)

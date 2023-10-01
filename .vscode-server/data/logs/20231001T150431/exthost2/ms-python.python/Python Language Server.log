@@ -1,0 +1,11 @@
+2023-10-01 15:36:08.985 [info] [Info  - 3:36:08 PM] (8290) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-10-01 15:36:08.988 [info] [Info  - 3:36:08 PM] (8290) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-10-01 15:36:08.989 [info] [Info  - 3:36:08 PM] (8290) Starting service instance "Dev"
+2023-10-01 15:36:09.117 [info] [Info  - 3:36:09 PM] (8290) Setting pythonPath for service "Dev": "/bin/python3"
+2023-10-01 15:36:09.117 [info] [Info  - 3:36:09 PM] (8290) Setting pythonPath for service "Dev": "/bin/python3"
+2023-10-01 15:36:09.125 [info] [Warn  - 3:36:09 PM] (8290) stubPath /home/ubuntu/Dev/typings is not a valid directory.
+2023-10-01 15:36:09.197 [info] [Info  - 3:36:09 PM] (8290) Assuming Python version 3.10
+2023-10-01 15:36:09.469 [info] [Info  - 3:36:09 PM] (8290) Auto-excluding /home/ubuntu/Dev/Django-k8s/venv
+2023-10-01 15:36:09.529 [info] [Info  - 3:36:09 PM] (8290) Found 6 source files
+2023-10-01 15:36:16.747 [info] [Info  - 3:36:16 PM] (8290) [IDX(2)] Long operation: index execution environment /home/ubuntu/Dev (2022ms)
+2023-10-01 15:36:16.748 [info] [Info  - 3:36:16 PM] (8290) [IDX(2)] Long operation: index packages /home/ubuntu/Dev (2047ms)

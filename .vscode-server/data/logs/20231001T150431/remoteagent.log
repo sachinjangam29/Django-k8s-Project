@@ -1,0 +1,26 @@
+2023-10-01 15:04:31.301 [info] 
+
+
+
+
+2023-10-01 15:04:31.335 [info] Extension host agent started.
+2023-10-01 15:04:32.192 [info] [127.0.0.1][3ee18998][ManagementConnection] New connection established.
+2023-10-01 15:04:32.750 [info] [127.0.0.1][d43b9e58][ExtensionHostConnection] New connection established.
+2023-10-01 15:04:33.168 [info] [127.0.0.1][d43b9e58][ExtensionHostConnection] <1208> Launched Extension Host Process.
+2023-10-01 15:04:50.328 [info] [127.0.0.1][3ee18998][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-01 15:04:50.332 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-01 15:04:55.356 [info] [127.0.0.1][d43b9e58][ExtensionHostConnection] <1208> Extension Host Process exited with code: 0, signal: null.
+2023-10-01 15:04:55.356 [info] Cancelling previous shutdown timeout
+2023-10-01 15:04:55.357 [info] Last EH closed, waiting before shutting down
+2023-10-01 15:05:05.627 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-01 15:05:05.628 [info] Cancelling previous shutdown timeout
+2023-10-01 15:05:07.030 [info] [127.0.0.1][bb3246f8][ManagementConnection] New connection established.
+2023-10-01 15:05:07.651 [info] [127.0.0.1][bcfa67bc][ExtensionHostConnection] New connection established.
+2023-10-01 15:05:07.693 [info] [127.0.0.1][bcfa67bc][ExtensionHostConnection] <1361> Launched Extension Host Process.
+2023-10-01 15:10:05.630 [info] New EH opened, aborting shutdown

@@ -1,0 +1,12 @@
+2023-09-29 15:38:45.940 [info] [Info  - 3:38:45 PM] (1467) Pylance language server 2023.9.30 (pyright 7e72aa15) starting
+2023-09-29 15:38:45.941 [info] [Info  - 3:38:45 PM] (1467) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.30/dist
+2023-09-29 15:38:45.941 [info] [Info  - 3:38:45 PM] (1467) Starting service instance "ubuntu"
+2023-09-29 15:38:46.073 [info] [Info  - 3:38:46 PM] (1467) Setting pythonPath for service "ubuntu": "/home/ubuntu/venv/bin/python"
+2023-09-29 15:38:46.073 [info] [Info  - 3:38:46 PM] (1467) Setting pythonPath for service "ubuntu": "/home/ubuntu/venv/bin/python"
+2023-09-29 15:38:46.078 [info] [Warn  - 3:38:46 PM] (1467) stubPath /home/ubuntu/typings is not a valid directory.
+2023-09-29 15:38:46.153 [info] [Info  - 3:38:46 PM] (1467) Assuming Python version 3.10
+2023-09-29 15:38:46.380 [info] [Info  - 3:38:46 PM] (1467) Auto-excluding /home/ubuntu/Dev/Django-k8s/venv
+2023-09-29 15:38:46.387 [info] [Info  - 3:38:46 PM] (1467) Auto-excluding /home/ubuntu/venv
+2023-09-29 15:38:46.395 [info] [Info  - 3:38:46 PM] (1467) Found 6 source files
+2023-09-29 15:38:50.569 [info] [Info  - 3:38:50 PM] (1467) [BG(1)] Long operation: analyzing: /home/ubuntu/Dev/Django-k8s/web/django_k8s/wsgi.py (2317ms)
+2023-09-29 15:38:50.797 [info] [Info  - 3:38:50 PM] (1467) [IDX(2)] Long operation: scan packages /home/ubuntu (2223ms)

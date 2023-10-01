@@ -175,3 +175,155 @@ sudo su
 git remote -v
 source venv/bin/activate
 pip install "django>=3.2,<4.0"
+ll
+git add --all
+git status
+git commit -m "2nd commit with the lates python scripts"
+git push origin main
+pwd
+ll
+cd Dev/
+cd Django-k8s/
+cd web/
+ll
+cd ..
+docker compuse up --build
+docker compose up --build
+sudo docker compose up --build
+sudo docker-compose up --build
+sudo docker-compose up 
+sudo docker compose up 
+cd web/
+cd ..
+source venv/bin/activate
+cd web/
+docker-compose up
+docker-compose up --build
+sudo apt  install docker-compose
+docker-compose up --build
+sudo docker-compose up --build
+clear
+sudo docker-compose up --build
+cd Django-k8s/
+source venv/bin/activate
+ll
+sudo docker-compose up --build
+sudo docker ps
+sudo docker exec -it f8a898d00de1 /bin/bash
+cd Django-k8s/
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose down
+cleAR
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker ps
+sudo docker exec -it 50c5bde0bef3 /bin/bash
+sudo docker-compose up
+ll
+cd Django-k8s/
+sudo docker-compose up
+sudo docker-compose down
+sudo docker-compose up build
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose statue
+clear
+sudo docker-compose status
+sudo docker-compose down
+cd Django-k8s/
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+cd Django-k8s/
+sudo docker-compose logs
+ps | ef
+ps
+sudo docker-compose down
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose down --remove-orphans
+sudo docker-compose up --build
+df -h
+cd /
+ll
+cd home/
+ll
+cd ubuntu/
+ll
+cd kubectl
+cat kubectl
+clear
+cd /home/ubuntu/
+df -h
+df -h /home/ubuntu
+ll
+cd Dev/
+ll
+ls -lrth
+cd Django-k8s/
+sudo docker-compose up --build
+sudo docker up
+sudo docker-compose up
+sudo docker down
+sudo docker-compose down
+sudo docker-compose up
+sudo docker-compose doen
+sudo docker-compose down
+sudo docker-compose down
+cd Django-k8s/
+sudo docker-compose down
+sudo docker-compose up --build
+df -h
+cd /
+ll
+sudo docker ps
+sudo docker images
+sudo docker rmi 0cbff524292d 292355d382338b647172a4d5 
+sudo docker images
+sudo docker rmi aaaa8e6609ea 5ce21eac9232  dd711cf67d40  61a092bcc24f 1c49eb0f385f f181d91684a7  48a4d3e5fe7b 8b647172a4d5
+sudo docker images
+sudo docker rmi ece19df86c1f 667fdb3b6469 7acbc12c9651 a94267a72473 292355d38233
+sudo docker images
+sudo docker-compose up --build
+df -h
+ll
+cd /home/ubuntu/
+ll
+cd Dev/Django-k8s/
+ll
+sudo docker-compose up --build
+sudo docker ps
+sudo docker images
+cd /
+ll
+df -ha
+cd /
+ll
+cd lost+found/
+sudo cd lost+found/
+sudo su -

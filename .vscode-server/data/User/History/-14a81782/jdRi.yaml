@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  web:
+    build:
+      context: ./web
+      dockerfile: dockerfile
+    image: Django-k8s:v1
+    environment:
+      - PORT=8020
+    env_file:
+      - web/.env
+        

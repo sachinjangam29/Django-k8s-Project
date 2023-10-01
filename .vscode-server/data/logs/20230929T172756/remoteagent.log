@@ -1,0 +1,40 @@
+2023-09-29 17:27:56.943 [info] 
+
+
+
+
+2023-09-29 17:27:56.967 [info] Extension host agent started.
+2023-09-29 17:27:57.915 [info] [127.0.0.1][6427a05f][ManagementConnection] New connection established.
+2023-09-29 17:27:58.497 [info] [127.0.0.1][6a1a0dc4][ExtensionHostConnection] New connection established.
+2023-09-29 17:27:58.750 [info] [127.0.0.1][6a1a0dc4][ExtensionHostConnection] <1245> Launched Extension Host Process.
+2023-09-29 17:28:15.653 [info] [127.0.0.1][6427a05f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-29 17:28:15.656 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/abd2f3db4bdb28f9e95536dfa84d8479f1eb312d/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-09-29 17:28:20.674 [info] [127.0.0.1][6a1a0dc4][ExtensionHostConnection] <1245> Extension Host Process exited with code: 0, signal: null.
+2023-09-29 17:28:20.674 [info] Cancelling previous shutdown timeout
+2023-09-29 17:28:20.674 [info] Last EH closed, waiting before shutting down
+2023-09-29 17:28:30.923 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-29 17:28:30.923 [info] Cancelling previous shutdown timeout
+2023-09-29 17:28:32.343 [info] [127.0.0.1][80c93585][ManagementConnection] New connection established.
+2023-09-29 17:28:32.908 [info] [127.0.0.1][2957a990][ExtensionHostConnection] New connection established.
+2023-09-29 17:28:32.916 [info] [127.0.0.1][2957a990][ExtensionHostConnection] <1397> Launched Extension Host Process.
+2023-09-29 17:30:03.457 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:30:03.696 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:31:31.178 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:31:31.447 [error] AggregateError
+    at internalConnectMultiple (node:net:1081:18)
+    at afterConnectMultiple (node:net:1532:5)
+2023-09-29 17:34:18.297 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-29 17:34:30.220 [info] New EH opened, aborting shutdown
+2023-09-29 17:34:31.497 [warning] No ptyHost heartbeat after 6 seconds
