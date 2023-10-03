@@ -1,0 +1,14 @@
+2023-10-03 11:23:55.573 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-03 11:23:55.573 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-03 11:23:55.573 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-10-03 11:23:55.573 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-10-03 11:23:55.573 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-03 11:23:56.191 [info] Test server listening.
+2023-10-03 11:23:56.219 [info] Python interpreter path: /bin/python3
+2023-10-03 11:23:57.786 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 11:23:57.786 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 11:23:57.786 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 11:24:00.336 [info] Starting Pylance language server.
+2023-10-03 11:24:03.431 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-03 11:26:59.900 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-03 11:58:10.944 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py

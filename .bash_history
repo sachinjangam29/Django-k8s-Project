@@ -327,3 +327,135 @@ ll
 cd lost+found/
 sudo cd lost+found/
 sudo su -
+cd Django-k8s/
+sudo docker-compose up --build
+sudo docker-compose down
+clear
+sudo docker-compose up --build
+sudo docker-compose down
+sudo docker-compose up --build
+clear
+cd venv/
+source bin/activate
+cd web
+cd ..
+cd web/
+python manage.py shekk
+python manage.py shell
+ll
+cd Django-k8s/
+ll
+cd ..
+;;
+ll
+git add --all
+git commit -m "with additional but important topics docker-compose web service is ommited "
+git push origin master
+git commit -m ""
+git push
+cd /home/ubuntu/.ssh/
+ll
+cat id_rsa
+cd ..
+cd /home/ubuntu/Dev/Django-k8s/
+ll
+cd ..
+git push origin master
+git push 
+df -h
+ls -lrth
+cd Django-k8s/
+ls -lrth
+sudo docker-compose up --build
+sudo docker images
+df -h
+sudo docker rmi 2683caadb91d
+sudo docker-compose down
+df -h
+sudo docker rmi 2683caadb91d
+df -h
+cd /home/
+ll
+cd ubuntu/
+ll
+cd Dev/
+cd Django-k8s/
+ll
+fdupes -d /
+sudo apt install fdupes
+sudo df -h
+fdupes -d /
+df -h
+fdupes -d /home
+fdupes -d /bin
+sudo docker prune
+sudo docker system prune
+df -h
+sudo docker system prune
+df -h
+sudo docker system prune
+clear
+sudo docker-compose up --build
+df -h
+sudo docker-compose up --build
+sudo docker-compose down
+df -h
+sudo docker ps
+sudo docker-compose down
+sudo docker-compose up -d
+cd web/
+cd ..
+source venv/bin/activate
+python manage.py migrate
+cd web/
+python manage.py migrate
+python manage.py runserver
+sudo docker ps
+ll
+cd Django-k8s/
+source venv/bin/activate
+cd web/
+python manage.py migrate
+python manage.py runserver
+cd Django-k8s/
+df -h
+sudo docker ps
+sudo docker images
+sudo docker-compose down
+sudo docker images
+sudo docker ps
+sudo docker-compose up --build -t django-k8s:v11
+sudo docker-compose up --build 
+df -h
+sudo docker system prune
+df -h
+clear
+sudo docker ps
+sudo docker-compose --build
+sudo docker-compose build
+sudo docker ps
+sudo docker images
+sudo docker login
+sudo docker push acejangam2910/django-k8s:v1
+sudo docker-compose build -t acejangam2910/django-k8s:v1
+clear
+sudo docker-compose build
+sudo docker ps
+sudo docker imageers
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v1
+sudo docker-compose build
+sudo docker images
+sudo docker push acejangam2910/django-k8s
+sudo docker push acejangam2910/django-k8s:v2
+sudo docker-compose up 
+sudo docker-compose up --build
+
+sudo docker-compose up --build
+df -h
+sudo docker-compose up --build
+sudo docker volume create --name=staticfiles
+sudo docker-compose up --build
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v6
+sudo docker ps
