@@ -16,3 +16,5 @@
 2023-10-03 11:24:39.815 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
 2023-10-03 12:01:29.142 [error] Error: read ECONNRESET
 	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-10-03 13:36:13.201 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)

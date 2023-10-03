@@ -6,7 +6,7 @@ services:
     build:
       context: ./web
       dockerfile: Dockerfile
-    image: acejangam2910/django-k8s:v11
+    image: acejangam2910/django-k8s:v10
     environment:
       - PORT=8000
     env_file:
