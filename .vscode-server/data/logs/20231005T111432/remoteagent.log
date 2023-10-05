@@ -1,0 +1,35 @@
+2023-10-05 11:14:32.450 [info] 
+
+
+
+
+2023-10-05 11:14:32.488 [info] Extension host agent started.
+2023-10-05 11:14:33.311 [info] [127.0.0.1][113fa1aa][ManagementConnection] New connection established.
+2023-10-05 11:14:33.819 [info] [127.0.0.1][79253579][ExtensionHostConnection] New connection established.
+2023-10-05 11:14:34.085 [info] [127.0.0.1][79253579][ExtensionHostConnection] <1411> Launched Extension Host Process.
+2023-10-05 11:14:43.492 [info] Getting Manifest... ms-python.vscode-pylance
+2023-10-05 11:14:43.523 [info] Installing extension: ms-python.vscode-pylance
+2023-10-05 11:14:43.925 [info] Getting Manifest... ms-python.python
+2023-10-05 11:14:44.720 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-10-05 11:14:49.180 [info] [127.0.0.1][113fa1aa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-05 11:14:49.183 [error] Error: Throttler is disposed
+    at c.queue (/home/ubuntu/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/ubuntu/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/ubuntu/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+2023-10-05 11:14:51.706 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10: ms-python.vscode-pylance
+2023-10-05 11:14:51.721 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.10
+2023-10-05 11:14:51.726 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-10-05 11:14:51.753 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-10-05 11:14:51.783 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.9.30
+2023-10-05 11:14:54.215 [info] [127.0.0.1][79253579][ExtensionHostConnection] <1411> Extension Host Process exited with code: 0, signal: null.
+2023-10-05 11:14:54.215 [info] Cancelling previous shutdown timeout
+2023-10-05 11:14:54.216 [info] Last EH closed, waiting before shutting down
+2023-10-05 11:15:04.612 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-05 11:15:04.612 [info] Cancelling previous shutdown timeout
+2023-10-05 11:15:06.019 [info] [127.0.0.1][17d8bb56][ManagementConnection] New connection established.
+2023-10-05 11:15:06.585 [info] [127.0.0.1][83dfab47][ExtensionHostConnection] New connection established.
+2023-10-05 11:15:06.597 [info] [127.0.0.1][83dfab47][ExtensionHostConnection] <1564> Launched Extension Host Process.
+2023-10-05 11:20:04.613 [info] New EH opened, aborting shutdown

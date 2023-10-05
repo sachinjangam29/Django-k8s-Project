@@ -1,0 +1,11 @@
+2023-10-03 15:19:19.589 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-03 15:19:19.589 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-03 15:19:19.590 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-10-03 15:19:19.590 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-10-03 15:19:19.590 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-03 15:19:19.590 [info] Test server listening.
+2023-10-03 15:19:19.635 [info] Python interpreter path: /bin/python3
+2023-10-03 15:19:21.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 15:19:21.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 15:19:21.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-03 15:19:23.278 [info] Starting Pylance language server.

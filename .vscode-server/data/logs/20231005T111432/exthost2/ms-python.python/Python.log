@@ -1,0 +1,29 @@
+2023-10-05 11:38:03.407 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-05 11:38:03.407 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-05 11:38:03.407 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-10-05 11:38:03.410 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2023-10-05 11:38:03.410 [info] Experiment 'pythonTestAdaptercf' is active
+2023-10-05 11:38:04.164 [info] Test server listening.
+2023-10-05 11:38:04.236 [info] Python interpreter path: /bin/python3
+2023-10-05 11:38:05.827 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-05 11:38:05.827 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-05 11:38:05.827 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-05 11:38:07.817 [info] Starting Pylance language server.
+2023-10-05 11:38:16.113 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:30:22.195 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:30:23.987 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:30:52.568 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:33:51.456 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:52:50.678 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/manage.py
+2023-10-05 12:56:37.638 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:56:54.378 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 12:57:17.355 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 13:28:02.923 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 13:28:05.903 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 13:42:07.792 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 13:42:12.993 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/settings.py
+2023-10-05 13:51:14.089 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/urls.py
+2023-10-05 13:51:48.808 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/urls.py
+2023-10-05 13:51:52.740 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/urls.py
+2023-10-05 13:52:51.389 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/urls.py
+2023-10-05 13:53:31.014 [info] Discover tests for workspace name: Dev - uri: /home/ubuntu/Dev/Django-k8s/web/django_k8s/urls.py

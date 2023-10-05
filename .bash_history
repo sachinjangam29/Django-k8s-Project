@@ -459,3 +459,77 @@ sudo docker-compose up --build
 sudo docker images
 sudo docker push acejangam2910/django-k8s:v6
 sudo docker ps
+cd Django-k8s/
+sudo docker-compose up
+cd Django-k8s/
+sudo docker-compose up --build
+sudo docker ps
+sudo docker images
+git branch
+git checkout -b docker-compose_remove_volumes_static
+sudo git branch
+sudo add -all
+git add -all
+git add --all
+git commit -m "removed volumes for static file in docker compose"
+docker push origin main
+git push
+git branch
+git push --set-upstream origin docker-compose_remove_volumes_static
+git merge
+git branch
+sudo docker-compose build
+sudo docker images
+sudo docker push acejangam2910/django-k8:v8s
+sudo docker push acejangam2910/django-k8:v8
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v8
+git checkout add_restart_always_docker_compose
+git checkout -b add_restart_always_docker_compose
+git branch
+git add --all
+git commit -m "added restart always in postgres docker compose"
+git push -set-upstream add_restart_always_docker_compose
+git push --set-upstream add_restart_always_docker_compose
+git branch
+git push --set-upstream origin add_restart_always_docker_compose
+git merge -b origin master
+sudo docker-compose build
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v9
+git checkout -b removed_appMigrate_sh_duplicate_with_chmod
+git add --all
+git commit -m "removed duplicate entry for /app/migrate.sh with chmod in command"
+git push origin removed_appMigrate_sh_duplicate_with_chmod
+sudo docker ps
+sudo docker-compose build
+sudo docker images
+df -h
+sudo docker system prune
+sudo docker images
+sudo docker-compose build
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v10
+sudo docker ps
+sudo docker-compose build
+sudo docker images
+git checkout -b migrate_sh_removal_migrate
+git add -aal
+git commit -m "removed python manage.py migrate line from migrate.sh"
+git add --all
+git commit -m "removed python manage.py migrate line from migrate.sh"
+git push origin migrate_sh_removal_migrate
+sudo docker-compose build
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v11
+sudo docke-compose up
+sudo docker-compose up
+sudo docker-compose up --build
+df -h
+sudo docker ps
+sudo docker-compose up
+sudo docker login
+sudo docker images
+sudo docker push acejangam2910/django-k8s:v7
+sudo docker ps
+sudo docker exec -it b84f13d85444 /bin/bash
